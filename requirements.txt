@@ -1,0 +1,3 @@
+# Workout Tracker Requirements
+# This project uses only Python standard library, so no external dependencies needed.
+# Python 3.7+ required
